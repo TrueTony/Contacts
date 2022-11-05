@@ -1,5 +1,5 @@
 # Contacts
-Stidy project representing the implementation of phone Book
+Study project representing the implementation of phone Book
 ## Using
 Running without argument - can add, edit and remove an entry from the book
 Running with an argument - the first argument is the name of the file in which the program will perform serialization/deserialization
